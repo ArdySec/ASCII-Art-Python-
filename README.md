@@ -1,37 +1,33 @@
 # ASCII-Art-Python-
 The program will automatically convert the text into ASCII art.
-markdown
 
 <div align="center">
 
     
-text
+    text
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⠃⠀⠀⠀⡁⠀⠀⠀⠀⠀⠐⠆⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⡤⠊⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠁⠀⠀⠘⠁⢀⠀⠀⠀⠀⢈⠓⠂⠠⡄⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠿⠞⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠁⠀⠠⡚⠁⢀⣙⣀⣈⡩⠬⢁⠀⢑⠶⠤⡆⠤⡀⠀⠀⠀⠀⠀⠀⢀⠴⢲⣋⣽⣷⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢠⠀⠀⣶⠃⠗⣡⣶⣮⣿⡿⠿⠿⢿⣿⣷⣶⣤⣤⠤⠴⠦⠬⣤⣤⠄⣉⠉⠝⢲⣿⡷⠻⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠁⡀⡸⠁⣰⣿⡿⠛⠋⣁⡀⠤⠤⢄⡀⠈⠛⢯⣿⣟⣾⣶⣶⣮⣭⣵⣾⣿⣟⠿⠉⢨⠖⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⢠⠳⡧⣻⡿⠋⢀⠒⠉⠀⠀⠀⠀⠀⠀⠉⠢⠀⠀⠙⠛⣻⣿⣿⣿⢿⣿⣿⠟⡱⠖⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢠⣧⠓⣾⣿⠁⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢦⣠⣾⣿⠿⣿⣿⣿⡿⣫⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠂⢃⣸⣿⠇⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⠟⢿⠁⠸⡿⣿⣯⡶⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢘⡄⠘⣿⣿⠀⠸⡀⠀⠀⠀⠀⠀⢀⣀⣴⣾⣿⡿⡟⡋⠐⡇⠀⢸⣿⣿⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠘⢰⣿⡿⡆⠀⣇⠀⣀⣠⣤⣶⣿⢷⢟⠻⠀⠈⠀⠀⠀⡇⠀⣼⣿⣿⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⢀⡴⢯⣾⠟⡏⢀⣠⣿⣿⣿⣟⢟⡋⠅⠘⠉⠀⠀⠀⠀⢀⠀⠁⢠⣿⣟⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠞⣻⣷⡿⢙⣩⣶⡿⠿⠛⠉⠑⢡⡁⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⣰⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⣾⣥⣾⢫⡦⠾⠛⠙⠉⠀⠀⢀⣀⠀⠈⠙⠓⠦⠤⠤⠀⠘⠁⢀⡤⣾⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠔⣴⣾⣿⣿⢟⢝⠢⠃⢀⣤⢴⣾⣮⣷⣶⢿⣶⡤⣐⡀⠀⣠⣤⢶⣪⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⡀⣦⣾⡿⡛⠵⠺⢈⡠⠶⠿⠥⠥⡭⠉⠉⢱⡛⠻⠿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠭⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⢴⠕⣋⠝⠕⠐⠀⠔⠉⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠉⠁⠁⠁⠁⠈⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⢀⣠⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-                                
-                                
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠖⠃⠀⠀⠀⡁⠀⠀⠀⠀⠀⠐⠆⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⢔⡤⠊⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠁⠀⠀⠘⠁⢀⠀⠀⠀⠀⢈⠓⠂⠠⡄⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⠿⠞⠋⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠁⠀⠠⡚⠁⢀⣙⣀⣈⡩⠬⢁⠀⢑⠶⠤⡆⠤⡀⠀⠀⠀⠀⠀⠀⢀⠴⢲⣋⣽⣷⠟⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⢠⠀⠀⣶⠃⠗⣡⣶⣮⣿⡿⠿⠿⢿⣿⣷⣶⣤⣤⠤⠴⠦⠬⣤⣤⠄⣉⠉⠝⢲⣿⡷⠻⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠁⡀⡸⠁⣰⣿⡿⠛⠋⣁⡀⠤⠤⢄⡀⠈⠛⢯⣿⣟⣾⣶⣶⣮⣭⣵⣾⣿⣟⠿⠉⢨⠖⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⢠⠳⡧⣻⡿⠋⢀⠒⠉⠀⠀⠀⠀⠀⠀⠉⠢⠀⠀⠙⠛⣻⣿⣿⣿⢿⣿⣿⠟⡱⠖⠊⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢠⣧⠓⣾⣿⠁⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⢦⣠⣾⣿⠿⣿⣿⣿⡿⣫⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠂⢃⣸⣿⠇⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣿⠟⢿⠁⠸⡿⣿⣯⡶⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢘⡄⠘⣿⣿⠀⠸⡀⠀⠀⠀⠀⠀⢀⣀⣴⣾⣿⡿⡟⡋⠐⡇⠀⢸⣿⣿⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢡⠘⢰⣿⡿⡆⠀⣇⠀⣀⣠⣤⣶���⢷⢟⠻⠀⠈⠀⠀⠀⡇⠀⣼⣿⣿⠂⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⢀⡴⢯⣾⠟⡏⢀⣠⣿⣿⣿⣟⢟⡋⠅⠘⠉⠀⠀⠀⠀⢀⠀⠁⢠⣿⣟⠃⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠞⣻⣷⡿⢙⣩⣶⡿⠿⠛⠉⠑⢡⡁⠀⠀⠀⠀⠀⠀⢀⠔⠁⠀⣰⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣡⣾⣥⣾⢫⡦⠾⠛⠙⠉⠀⠀⢀⣀⠀⠈⠙⠓⠦⠤⠤⠀⠘⠁⢀⡤⣾⡿⠏⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠔⣴⣾⣿⣿⢟⢝⠢⠃⢀⣤⢴⣾⣮⣷⣶⢿⣶⡤⣐⡀⠀⣠⣤⢶⣪⣿⣿⡿⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⡀⣦⣾⡿⡛⠵⠺⢈⡠⠶⠿⠥⠥⡭⠉⠉⢱⡛⠻⠿⣿⣿⣿⣿⣿⠿⠿⠿⠟⠭⠛⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⢴⠕⣋⠝⠕⠐⠀⠔⠉⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠉⠁⠁⠁⠁⠈⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣠⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 **Live-preview ASCII art studio for your terminal — change color, switch fonts, copy to clipboard.**
-
 
 **🇹🇷 [Türkçe](#-türkçe) · 🇬🇧 [English](#-english)**
 
@@ -53,6 +49,7 @@ text
 
 ### 🖥️ Ekran Görüntüsü
 
+```text
 ╔══════════════════════════════════════════════════╗
 ║ ✦ A S C I I A R T S T U D I O ✦ ║
 ╚══════════════════════════════════════════════════╝
@@ -66,61 +63,68 @@ text
 // __/ _||___|
 
 Text> HELLO█
-text
-
+```
 
 ### 🚀 Kurulum
 
 **1. Depoyu klonla**
 
 ```bash
-git clone https://github.com/ArdySec/ASCII-Art-Python-
-cd ASCII-art-studio
+git clone https://github.com/ArdySec/ASCII-Art-Python-.git
+cd ASCII-Art-Python-
+```
 
-2. Bağımlılıkları yükle
-bash
+**2. Bağımlılıkları yükle**
 
+```bash
 pip install pyperclip pyfiglet colorama
+```
 
-3. Çalıştır
-bash
+**3. Çalıştır**
 
-python ASCII.py
+```bash
+python Ascii.py
+```
 
-    Linux notu: Pano desteği için xclip gerekir.
-    bash
+Linux'ta pano desteği için `xclip` gerekir:
 
-    sudo apt install xclip        # Debian / Ubuntu
-    sudo pacman -S xclip          # Arch
+```bash
+sudo apt install xclip        # Debian / Ubuntu
+sudo pacman -S xclip          # Arch
+```
 
-🎮 Kullanım
-Tuş	İşlev
-A–Z, 0–9, semboller	Metin yaz
-← / →	Renk değiştir
-↑ / ↓	Font değiştir
-Backspace	Son karakteri sil
-Enter	ASCII sanatı panoya kopyala
-Esc	Çık (son ayarların özetiyle)
-📦 Bağımlılıklar
-Paket	Amaç
-pyfiglet	ASCII font motoru
-colorama	Terminal renkleri
-pyperclip	Panoya kopyalama
-🧠 Nasıl Çalışıyor?
+### 🎮 Kullanım
+
+| Tuş | İşlev |
+| --- | --- |
+| A–Z, 0–9, semboller | Metin yaz |
+| ← / → | Renk değiştir |
+| ↑ / ↓ | Font değiştir |
+| Backspace | Son karakteri sil |
+| Enter | ASCII sanatını panoya kopyala |
+| Esc | Çık (son ayarların özetiyle) |
+
+### 📦 Bağımlılıklar
+
+| Paket | Amaç |
+| --- | --- |
+| pyfiglet | ASCII font motoru |
+| colorama | Terminal renkleri |
+| pyperclip | Panoya kopyalama |
+
+### 🧠 Nasıl Çalışıyor?
 
 Proje 3 temel katmandan oluşur:
 
-    Girdi katmanı — get_key() fonksiyonu Windows'ta msvcrt, Linux/macOS'ta termios + tty ile ok tuşlarını ve özel tuşları yakalar.
+- **Girdi katmanı** — `get_key()` fonksiyonu Windows'ta `msvcrt`, Linux/macOS'ta `termios + tty` ile ok tuşlarını ve özel tuşları yakalar.
+- **Render katmanı** — `pyfiglet.Figlet` her tuş vuruşunda metni seçili fontla yeniden üretir, `colorama` ile renklendirir.
+- **Çıktı katmanı** — ANSI temizleme (`\x1b[2J\x1b[H`) ile ekranı temizleyip canlı önizleme sunar; Enter basıldığında `pyperclip` (veya `xclip` / `pbcopy` / `clip`) ile panoya kopyalar.
 
-    Render katmanı — pyfiglet.Figlet her tuş vuruşunda metni seçili fontla yeniden üretir, colorama ile renklendirir.
-
-    Çıktı katmanı — ANSI temizleme (\x1b[2J\x1b[H) ile ekranı temizleyip canlı önizleme sunar; Enter basıldığında pyperclip (veya xclip / pbcopy / clip) ile panoya kopyalar.
-
-🛠️ Genişletme
+### 🛠️ Genişletme
 
 Yeni bir renk veya font eklemek çok kolay — ilgili listeyi düzenlemen yeterli:
-python
 
+```python
 COLORS = [
     ("GREEN",  Fore.GREEN),
     ("PINK",   Fore.LIGHTMAGENTA_EX),  # yeni renk
@@ -132,56 +136,57 @@ FONTS = [
     "poison",  # yeni font
     # ...
 ]
+```
 
 Tüm fontları listelemek için:
-bash
 
+```bash
 python -c "import pyfiglet; print(pyfiglet.FigletFont.getFonts())"
+```
 
-🐛 Bilinen Sorunlar
+### 🐛 Bilinen Sorunlar
 
-    Windows PowerShell'de çok uzun çıktılar ekranı kaydırabilir — metin max_show değişkeniyle 30 karakterle sınırlı tutulur.
+- Windows PowerShell'de çok uzun çıktılar ekranı kaydırabilir — metin `max_show` değişkeniyle 30 karakterle sınırlı tutulur.
+- Bazı `pyfiglet` fontları Türkçe karakterlerde beklenmeyen çıktı verebilir.
+- Wayland altında `xclip` çalışmayabilir; `wl-clipboard` kurup kodu uyarlamanız gerekebilir.
 
-    Bazı pyfiglet fontları Türkçe karakterlerde beklenmeyen çıktı verebilir.
+### 🤝 Katkıda Bulunma
 
-    Wayland altında xclip çalışmayabilir; wl-clipboard kurup kodu uyarlamanız gerekebilir.
+```bash
+Fork'la 🍴
 
-🤝 Katkıda Bulunma
+Branch aç: git checkout -b ozellik/yeni-font
 
-    Fork'la 🍴
+Commit'le: git commit -m "✨ yeni font eklendi"
 
-    Branch aç: git checkout -b ozellik/yeni-font
+Push'la: git push origin ozellik/yeni-font
 
-    Commit'le: git commit -m "✨ yeni font eklendi"
-
-    Push'la: git push origin ozellik/yeni-font
-
-    PR gönder 🎉
+PR gönder 🎉
+```
 
 Her türlü katkı, hata bildirimi ve öneri memnuniyetle karşılanır.
-📄 Lisans
+
+### 📄 Lisans
 
 MIT License — özgürce kullan, değiştir, paylaş.
-🇬🇧 English
-✨ Features
 
-    🎨 13 color palettes with instant switching
+---
 
-    🔤 19 Figlet fonts (slant, big, banner, starwars, graffiti and more…)
+## 🇬🇧 English
 
-    👀 Live preview — output updates on every keystroke
+### ✨ Features
 
-    📋 One-key copy to clipboard (Windows / macOS / Linux)
+- 🎨 **13 color palettes** with instant switching
+- 🔤 **19 Figlet fonts** (slant, big, banner, starwars, graffiti and more…)
+- 👀 **Live preview** — output updates on every keystroke
+- 📋 **One-key copy to clipboard** (Windows / macOS / Linux)
+- ⌨️ **Cross-platform arrow-key support** (`msvcrt` / `termios`)
+- ⚡ **Lightweight & fast** — only 3 pip packages
+- 🎯 **Colorful, readable, modern UI** (powered by `colorama`)
 
-    ⌨️ Cross-platform arrow-key support (msvcrt / termios)
+### 🖥️ Screenshot
 
-    ⚡ Lightweight & fast — only 3 pip packages
-
-    🎯 Colorful, readable, modern UI (powered by colorama)
-
-🖥️ Screenshot
-text
-
+```text
 ╔══════════════════════════════════════════════════╗
 ║  ✦  A S C I I   A R T   S T U D I O  ✦          ║
 ╚══════════════════════════════════════════════════╝
@@ -189,66 +194,75 @@ text
   ← →  color    ↑ ↓  font    Backspace  delete    Esc  exit
   ──────────────────────────────────────────────────
 
-   _    ____   ____ ___ ___ 
+   _    ____   ____ ___ ___
   / \  / ___| / ___|_ _|_ _|
- / _ \ \___ \| |    | | | | 
-/ ___ \ ___) | |___ | | | | 
+ / _ \ \___ \| |    | | | |
+/ ___ \ ___) | |___ | | | |
 /_/   \_\____/ \____|___|___|
-                             
+
 Text> HELLO█
+```
 
-🚀 Installation
+### 🚀 Installation
 
-1. Clone the repo
-bash
+**1. Clone the repo**
 
-git clone https://github.com/ArdySecSec/ASCII-Art-Python-/
-cd ASCII-art-studio
+```bash
+git clone https://github.com/ArdySec/ASCII-Art-Python-.git
+cd ASCII-Art-Python-
+```
 
-2. Install dependencies
-bash
+**2. Install dependencies**
 
+```bash
 pip install pyperclip pyfiglet colorama
+```
 
-3. Run
-bash
+**3. Run**
 
+```bash
 python Ascii.py
+```
 
-    Linux note: Clipboard support requires xclip.
-    bash
+Linux note: clipboard support requires `xclip`.
 
-    sudo apt install xclip        # Debian / Ubuntu
-    sudo pacman -S xclip          # Arch
+```bash
+sudo apt install xclip        # Debian / Ubuntu
+sudo pacman -S xclip          # Arch
+```
 
-🎮 Usage
-Key	Action
-A–Z, 0–9, symbols	Type text
-← / →	Change color
-↑ / ↓	Change font
-Backspace	Delete last character
-Enter	Copy ASCII art to clipboard
-Esc	Exit (prints final settings summary)
-📦 Dependencies
-Package	Purpose
-pyfiglet	ASCII font engine
-colorama	Terminal colors
-pyperclip	Clipboard access
-🧠 How It Works
+### 🎮 Usage
+
+| Key | Action |
+| --- | --- |
+| A–Z, 0–9, symbols | Type text |
+| ← / → | Change color |
+| ↑ / ↓ | Change font |
+| Backspace | Delete last character |
+| Enter | Copy ASCII art to clipboard |
+| Esc | Exit (prints final settings summary) |
+
+### 📦 Dependencies
+
+| Package | Purpose |
+| --- | --- |
+| pyfiglet | ASCII font engine |
+| colorama | Terminal colors |
+| pyperclip | Clipboard access |
+
+### 🧠 How It Works
 
 The project is built on 3 layers:
 
-    Input layer — get_key() uses msvcrt on Windows and termios + tty on Linux/macOS to capture arrow keys and special keys.
+- **Input layer** — `get_key()` uses `msvcrt` on Windows and `termios + tty` on Linux/macOS to capture arrow keys and special keys.
+- **Render layer** — `pyfiglet.Figlet` re-renders the text with the selected font on every keystroke, colored via `colorama`.
+- **Output layer** — clears the screen with ANSI codes (`\x1b[2J\x1b[H`) for a smooth live preview; on Enter, it copies the art to the clipboard via `pyperclip` (or `xclip` / `pbcopy` / `clip`).
 
-    Render layer — pyfiglet.Figlet re-renders the text with the selected font on every keystroke, colored via colorama.
-
-    Output layer — Clears the screen with ANSI codes (\x1b[2J\x1b[H) for a smooth live preview; on Enter, copies the art to the clipboard via pyperclip (or xclip / pbcopy / clip).
-
-🛠️ Extending
+### 🛠️ Extending
 
 Adding a new color or font is trivial — just edit the corresponding list:
-python
 
+```python
 COLORS = [
     ("GREEN",  Fore.GREEN),
     ("PINK",   Fore.LIGHTMAGENTA_EX),  # new color
@@ -260,44 +274,47 @@ FONTS = [
     "poison",  # new font
     # ...
 ]
+```
 
 List every available font:
-bash
 
+```bash
 python -c "import pyfiglet; print(pyfiglet.FigletFont.getFonts())"
+```
 
-🐛 Known Issues
+### 🐛 Known Issues
 
-    In Windows PowerShell, very long output may push the screen — text length is capped at 30 chars via the max_show variable.
+- In Windows PowerShell, very long output may push the screen — text length is capped at 30 chars via the `max_show` variable.
+- Some `pyfiglet` fonts render Turkish characters unexpectedly.
+- `xclip` may not work under Wayland; install `wl-clipboard` and adapt the code accordingly.
 
-    Some pyfiglet fonts render Turkish characters unexpectedly.
+### 🤝 Contributing
 
-    xclip may not work under Wayland; install wl-clipboard and adapt the code accordingly.
+```bash
+Fork it 🍴
 
-🤝 Contributing
+Create a branch: git checkout -b feature/new-font
 
-    Fork it 🍴
+Commit: git commit -m "✨ add new font"
 
-    Create a branch: git checkout -b feature/new-font
+Push: git push origin feature/new-font
 
-    Commit: git commit -m "✨ add new font"
-
-    Push: git push origin feature/new-font
-
-    Open a PR 🎉
+Open a PR 🎉
+```
 
 All contributions, bug reports and suggestions are welcome.
-📄 License
+
+### 📄 License
 
 MIT License — free to use, modify and share.
+
 <div align="center">
 
 ⭐ If you like this project, don't forget to leave a star!
-text
 
     ╭──────────────────────────────╮
     │  Made with ❤️  &  ASCII     │
     ╰──────────────────────────────╯
 
 ⬆ Back to top · ⬆ Başa dön
-</div> ```
+</div>
