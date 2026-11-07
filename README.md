@@ -74,7 +74,7 @@ text
 **1. Depoyu klonla**
 
 ```bash
-git clone https://github.com/Ardy/ASCII-Art-Python-
+git clone https://github.com/ArdySec/ASCII-Art-Python-
 cd ascii-art-studio
 
 2. Bağımlılıkları yükle
@@ -202,7 +202,7 @@ Text> HELLO█
 1. Clone the repo
 bash
 
-git clone https://github.com/Ardyname/ASCII-Art-Python-/
+git clone https://github.com/ArdySecSec/ASCII-Art-Python-/
 cd ascii-art-studio
 
 2. Install dependencies
