@@ -75,7 +75,7 @@ text
 
 ```bash
 git clone https://github.com/ArdySec/ASCII-Art-Python-
-cd ascii-art-studio
+cd ASCII-art-studio
 
 2. Bağımlılıkları yükle
 bash
@@ -85,7 +85,7 @@ pip install pyperclip pyfiglet colorama
 3. Çalıştır
 bash
 
-python Ascii.py
+python ASCII.py
 
     Linux notu: Pano desteği için xclip gerekir.
     bash
@@ -203,7 +203,7 @@ Text> HELLO█
 bash
 
 git clone https://github.com/ArdySecSec/ASCII-Art-Python-/
-cd ascii-art-studio
+cd ASCII-art-studio
 
 2. Install dependencies
 bash
@@ -213,7 +213,7 @@ pip install pyperclip pyfiglet colorama
 3. Run
 bash
 
-python Asci.py
+python Ascii.py
 
     Linux note: Clipboard support requires xclip.
     bash
